@@ -5,3 +5,6 @@ Este projeto foi feito a partir do desafio de projeto da Digital Innovation One 
 A "HEROFLIX" seria uma versão da Netflix feita apenaz com filmes, séries e documentários apenas sobre heróis.
 
 O botão Assistir Trailer ao ser clicado , abre um trailer do filme "Vingadores: Guerra Infinita".
+
+Link para visualização do site na prática:
+https://rafasouzagit.github.io/heroflix-clone-netflix/
